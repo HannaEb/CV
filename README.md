@@ -62,13 +62,13 @@ My driving licence says so, anyway.
 **French Kitchen** | March 2011 - November 2011   
 *Restaurant Manager*  
 
-**Self-employed** | November 2009 - February 2011
+**Self-employed** | November 2009 - February 2011      
 *Artist's Model in the UK, France and Belgium*  
 
 **Ground Restaurant** | October 2006 - November 2009   
 *Waitress, Supervisor, Restaurant Manager*  
 
-**New Zealand Splendeur Tours, NZ** | August 2003 - December 2003
+**New Zealand Splendeur Tours, NZ** | August 2003 - December 2003     
 *Work Placement*  
 
 ## Interests
