@@ -6,7 +6,7 @@
 
 | Name | Description | Technologies | Testing |
 |------|-------------|--------------|---------|
-|[**Werewolves Frontend**](https://github.com/HannaEb/werewolves_frontend.git), [**Werewolves Backend**](https://github.com/HannaEb/werewolves_backend.git)| A mobile app for the very popular Werewolves game. | Rails, AngularJS, Ionic, Postgres | Rspec,?? Karma, Protractor ??|
+|[**Werewolves Frontend**](https://github.com/HannaEb/werewolves_frontend.git), [**Werewolves Backend**](https://github.com/HannaEb/werewolves_backend.git)| A mobile app for the very popular Werewolves game. | Rails, AngularJS, Ionic, Postgres | Rspec |
 |[**Bookworms**](https://github.com/HannaEb/bookworms.git)| For book lovers and aspiring readers to connect over books. 🐛 |Rails API, AngularJS, Rails asset pipeline, Postgres, Heroku| RSpec, Karma, Protractor |
 |[**MakersBnB**](https://github.com/HannaEb/SHEWbnb.git)|A clone of AirBnb which allows you to view, request and book places to stay. 🏢 |Ruby, Sinatra, Postgres |RSpec, Capybara|
 
@@ -16,9 +16,9 @@
 
 #### Languages
 
-German - Fluent
-French - Advanced
-Spanish - Basic Knowledge
+- German - Fluent
+- French - Advanced
+- Spanish - Basic Knowledge
 
 #### Can ride a Motorbike
 
@@ -58,12 +58,16 @@ My driving licence says so, anyway.
 
 **The Big Easy** | January 2012 - March 2016    
 *Supervisor, Restaurant Manager*  
+
 **French Kitchen** | March 2011 - November 2011   
 *Restaurant Manager*  
+
 **Self-employed** | November 2009 - February 2011
 *Artist's Model in the UK, France and Belgium*  
+
 **Ground Restaurant** | October 2006 - November 2009   
 *Waitress, Supervisor, Restaurant Manager*  
+
 **New Zealand Splendeur Tours, NZ** | August 2003 - December 2003
 *Work Placement*  
 
