@@ -6,7 +6,7 @@
 
 | Name | Description | Technologies | Testing |
 |------|-------------|--------------|---------|
-|[**Werewolves**](https://github.com/HannaEb/werewolves_frontend.git) (https://github.com/HannaEb/werewolves_backend.git)| A mobile app for the very popular Werewolves game. | Rails, AngularJS, Ionic, Postgres | Rspec,?? Karma, Protractor ??|
+|[**Werewolves Frontend**](https://github.com/HannaEb/werewolves_frontend.git), [**Werewolves Backend**](https://github.com/HannaEb/werewolves_backend.git)| A mobile app for the very popular Werewolves game. | Rails, AngularJS, Ionic, Postgres | Rspec,?? Karma, Protractor ??|
 |[**Bookworms**](https://github.com/HannaEb/bookworms.git)| For book lovers and aspiring readers to connect over books. 🐛 |Rails API, AngularJS, Rails asset pipeline, Postgres, Heroku| RSpec, Karma, Protractor |
 |[**MakersBnB**](https://github.com/HannaEb/SHEWbnb.git)|A clone of AirBnb which allows you to view, request and book places to stay. 🏢 |Ruby, Sinatra, Postgres |RSpec, Capybara|
 
