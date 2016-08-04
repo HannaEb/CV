@@ -1,48 +1,80 @@
-## Your Name
+## Hanna Eberhoefer
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+
+
+## Projects
+
+| Name | Description | Technologies | Testing |
+|------|-------------|--------------|---------|
+|[**Werewolves**](https://github.com/HannaEb/werewolves_frontend.git) (https://github.com/HannaEb/werewolves_backend.git)| A mobile app for the very popular Werewolves game. | Rails, AngularJS, Ionic, Postgres | Rspec,?? Karma, Protractor ??|
+|[**Bookworms**](https://github.com/HannaEb/bookworms.git)| For book lovers and aspiring readers to connect over books. 🐛 |Rails API, AngularJS, Rails asset pipeline, Postgres, Heroku| RSpec, Karma, Protractor |
+|[**MakersBnB**](https://github.com/HannaEb/SHEWbnb.git)|A clone of AirBnb which allows you to view, request and book places to stay. 🏢 |Ruby, Sinatra, Postgres |RSpec, Capybara|
 
 ## Skills
 
-#### This Skill
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
-- Experience
-- Achievements
-- Evidence
+#### Languages
 
-#### Another Skill
+German - Fluent
+French - Advanced
+Spanish - Basic Knowledge
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+#### Can ride a Motorbike
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+My driving licence says so, anyway.
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy | April 2016 - July 2016
 
 - Curiosity and hungry passion for code
 - Independent learner and problem-solver
-- OOP, TDD, SOLID, MVC, DDD
-- Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular.js
-- Rspec, Jasmine, Mocha
+- Pair programming
+- OOP, TDD, SOLID, MVC, DDD, Agile, XP principles
+- Ruby, Rails, Sinatra, Javascript, Angular.js, Ionic, HTML, CSS, Postgres, DataMapper, Active Record
+- Rspec, Jasmine, Capybara, Karma, Protractor
 
-#### Your University / College (start_date to end_date)
+#### London Metropolitan University | September 2005 - February 2007
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- International Business
+- 2:2 Master of Arts (MA)
 
-#### Any other qualifications
+#### University of Lincoln | September 2004 - June 2005
+
+- European Business
+- 2:1 Bachelor of Arts (BA)
+
+#### European Academy Dr. Buhmann, Institute of Higher Education | August 2003 - July 2004
+
+- Business Economist for International Tourism
+- Higher European Diploma
+
+#### Dr. Buhmann College | August 2001 - June 2003
+
+- Degree in Business Administration
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**The Big Easy** | January 2012 - March 2016    
+*Supervisor, Restaurant Manager*  
+**French Kitchen** | March 2011 - November 2011   
+*Restaurant Manager*  
+**Self-employed** | November 2009 - February 2011
+*Artist's Model in the UK, France and Belgium*  
+**Ground Restaurant** | October 2006 - November 2009   
+*Waitress, Supervisor, Restaurant Manager*  
+**New Zealand Splendeur Tours, NZ** | August 2003 - December 2003
+*Work Placement*  
+
+## Interests
+
+- Music - Piano, Clarinet, Saxophone
+- Reading - mainly Fantasy and my Atlas
+- Cooking and food in general
+- Juggling
+- Swimming - preferably in the sea  
+- Yoga
+- My cats and all other animals - including dogs and goats
+- Nature documentaries
+- HUGE Tetris fan!
