@@ -12,6 +12,10 @@
 
 ## Skills
 
+#### Teamwork & Communication
+
+I strongly believe these two go hand in hand, you cannot successfully work as a team and achieve your goals without properly communicating with each other. Many years of experience as a restaurant manager with twice-daily staff briefings, weekly cross-departmental managers meetings and multinational, ever changing teams have taught me the importance of being open minded, willing to see things from a different perspective as well as being able to express myself clearly. Daily pair-programming, retrospectives, stand-ups and team projects at Makers Academy have further contributed to my firm belief that communication and teamwork are essential in any professional environement.
+
 #### Curiosity
 
 Why do the wheels of a car sometimes look like they are spinning backwards? What are imaginary numbers? And what happens if you fall into a Black Hole? Questions like these are endlessly fascinating to me. I have a great passion for trying to understand how the world works and love learning new things about anything and everything on a daily basis. You can never know too much!
