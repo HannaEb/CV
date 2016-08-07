@@ -1,4 +1,4 @@
-## Hanna Eberhoefer
+# Hanna Eberhoefer
 
 
 
@@ -7,12 +7,14 @@
 | Name | Description | Technologies | Testing |
 |------|-------------|--------------|---------|
 |[**Werewolves Frontend**](https://github.com/HannaEb/werewolves_frontend.git), [**Werewolves Backend**](https://github.com/HannaEb/werewolves_backend.git)| A mobile app for the very popular Werewolves game. | Rails, AngularJS, Ionic, Postgres | Rspec |
-|[**Bookworms**](https://github.com/HannaEb/bookworms.git)| For book lovers and aspiring readers to connect over books. 🐛 |Rails API, AngularJS, Rails asset pipeline, Postgres, Heroku| RSpec, Karma, Protractor |
-|[**MakersBnB**](https://github.com/HannaEb/SHEWbnb.git)|A clone of AirBnb which allows you to view, request and book places to stay. 🏢 |Ruby, Sinatra, Postgres |RSpec, Capybara|
+|[**Bookworms**](https://github.com/HannaEb/bookworms.git)| For book lovers and aspiring readers to connect over books. | Rails API, AngularJS, Rails asset pipeline, Postgres, Heroku | RSpec, Karma, Protractor |
+|[**MakersBnB**](https://github.com/HannaEb/SHEWbnb.git) | A clone of AirBnb which allows you to view, request and book places to stay. | Ruby, Sinatra, Postgres | RSpec, Capybara|
 
 ## Skills
 
+#### Curiosity
 
+Why do the wheels of a car sometimes look like they are spinning backwards? What are imaginary numbers? And what happens if you fall into a Black Hole? Questions like these are endlessly fascinating to me. I have a great passion for trying to understand how the world works and love learning new things about anything and everything on a daily basis. You can never know too much!
 
 #### Languages
 
@@ -20,16 +22,14 @@
 - French - Advanced
 - Spanish - Basic Knowledge
 
-#### Can ride a Motorbike
+#### Other Skills
 
-My driving licence says so, anyway.
+I can juggle and ride a motorbike. Sort of.
 
 ## Education
 
 #### Makers Academy | April 2016 - July 2016
 
-- Curiosity and hungry passion for code
-- Independent learner and problem-solver
 - Pair programming
 - OOP, TDD, SOLID, MVC, DDD, Agile, XP principles
 - Ruby, Rails, Sinatra, Javascript, Angular.js, Ionic, HTML, CSS, Postgres, DataMapper, Active Record
@@ -74,9 +74,8 @@ My driving licence says so, anyway.
 ## Interests
 
 - Music - Piano, Clarinet, Saxophone
-- Reading - mainly Fantasy and my Atlas
-- Cooking and food in general
-- Juggling
+- Reading - mainly Fantasy, my Atlas and Wikipedia
+- Cooking, trying out new recipes and food in general
 - Swimming - preferably in the sea  
 - Yoga
 - My cats and all other animals - including dogs and goats
