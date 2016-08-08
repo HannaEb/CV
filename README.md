@@ -1,16 +1,8 @@
 # Hanna Eberhoefer
 
-#### Junior Web Developer
+## About
 
-I am a light hearted, open minded and intuitive people person with a great passion for learning and numbers. I recently graduated from Makers Academy, an intensive 16 week coding boot camp where I was introduced to languages such as Ruby and JavaScript as well as various frameworks and programming practices. But most importantly I learned how to learn! I am now looking to work with a great team in a challenging and inspiring environment where I can continue to learn and improve myself on a daily basis.
-
-## Projects
-
-| Name | Description | Technologies | Testing |
-|------|-------------|--------------|---------|
-|[**Werewolves Frontend**](https://github.com/HannaEb/werewolves_frontend.git), [**Werewolves Backend**](https://github.com/HannaEb/werewolves_backend.git)| A mobile app for the very popular Werewolves game. | Rails, AngularJS, Ionic, Postgres | Rspec |
-|[**Bookworms**](https://github.com/HannaEb/bookworms.git)| For book lovers and aspiring readers to connect over books. | Rails API, AngularJS, Rails asset pipeline, Postgres, Heroku | RSpec, Karma, Protractor |
-|[**MakersBnB**](https://github.com/HannaEb/SHEWbnb.git) | A clone of AirBnb which allows you to view, request and book places to stay. | Ruby, Sinatra, Postgres | RSpec, Capybara|
+I am a light hearted, open minded and intuitive junior web developer with a great passion for learning and numbers. I recently graduated from Makers Academy, an intensive 16 week coding boot camp where I was introduced to languages such as Ruby and JavaScript as well as various frameworks and programming practices. But most importantly I learned how to learn! I am now looking to work with a great team in a challenging and inspiring environment where I can continue to learn and improve myself on a daily basis.
 
 ## Skills
 
@@ -39,6 +31,14 @@ Why do the wheels of a car sometimes look like they are spinning backwards? What
 #### Other Skills
 
 I can juggle and ride a motorbike. Sort of.
+
+## Projects
+
+| Name | Description | Technologies | Testing |
+|------|-------------|--------------|---------|
+|[**Werewolves Frontend**](https://github.com/HannaEb/werewolves_frontend.git), [**Werewolves Backend**](https://github.com/HannaEb/werewolves_backend.git)| A mobile app for the very popular Werewolves game. | Rails, AngularJS, Ionic, Postgres | Rspec |
+|[**Bookworms**](https://github.com/HannaEb/bookworms.git)| For book lovers and aspiring readers to connect over books. | Rails API, AngularJS, Rails asset pipeline, Postgres, Heroku | RSpec, Karma, Protractor |
+|[**MakersBnB**](https://github.com/HannaEb/SHEWbnb.git) | A clone of AirBnb which allows you to view, request and book places to stay. | Ruby, Sinatra, Postgres | RSpec, Capybara|
 
 ## Education
 
