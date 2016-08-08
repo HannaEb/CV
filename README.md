@@ -1,6 +1,8 @@
 # Hanna Eberhoefer
 
+#### Junior Web Developer
 
+I am a light hearted, open minded and intuitive people person with a great passion for learning and numbers. I recently graduated from Makers Academy, an intensive 16 week coding boot camp where I was introduced to languages such as Ruby and JavaScript as well as various frameworks and programming practices. But most importantly I learned how to learn! I am now looking to work with a great team in a challenging and inspiring environment where I can continue to learn and improve myself on a daily basis.
 
 ## Projects
 
