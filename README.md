@@ -89,14 +89,13 @@ I can juggle and ride a motorbike. Sort of.
 
 - Music - Piano, Clarinet, Saxophone
 - Reading - mainly Fantasy, my Atlas and Wikipedia
-- Cooking, trying out new recipes and food in general
+- Cooking, trying out new recipes and food in general!
 - Swimming - preferably in the sea  
 - Yoga
-- My cats and all other animals - including dogs and goats
+- My cats and all other animals - especially goats. Goats are awesome.
 - Nature documentaries
 - HUGE Tetris fan!
 
 ## Contact
 
 :envelope: <hannaeberhoefer@yahoo.com>
-_[LinkedIn] (https://www.linkedin.com/in/hanna-eberhoefer)_ &nbsp;|&nbsp;
