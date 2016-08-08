@@ -2,7 +2,7 @@
 
 [Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Contact](#contact)
 
-I am a light hearted, open minded and intuitive junior web developer with a great passion for learning and numbers. I recently graduated from Makers Academy, an intensive 16 week coding boot camp where I was introduced to languages such as Ruby and JavaScript as well as various frameworks and programming practices. But most importantly I learned how to learn! I am now looking to work with a great team in a challenging and inspiring environment where I can continue to learn and improve myself on a daily basis.
+I am a light hearted, open minded and intuitive junior web developer with a great passion for learning and numbers. I recently graduated from Makers Academy, an intensive 16 week coding boot camp where I was introduced to languages such as Ruby and JavaScript as well as various frameworks and programming practices. But most importantly I learned how to learn! I am now looking to work with a great team in a challenging and inspiring environment where I can continue to learn and improve my skills on a daily basis.
 
 ## Skills
 
