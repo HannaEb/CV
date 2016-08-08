@@ -1,6 +1,6 @@
 # Hanna Eberhoefer
 
-## About
+[Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Contact](#contact)
 
 I am a light hearted, open minded and intuitive junior web developer with a great passion for learning and numbers. I recently graduated from Makers Academy, an intensive 16 week coding boot camp where I was introduced to languages such as Ruby and JavaScript as well as various frameworks and programming practices. But most importantly I learned how to learn! I am now looking to work with a great team in a challenging and inspiring environment where I can continue to learn and improve myself on a daily basis.
 
@@ -95,3 +95,7 @@ I can juggle and ride a motorbike. Sort of.
 - My cats and all other animals - including dogs and goats
 - Nature documentaries
 - HUGE Tetris fan!
+
+## Contact
+
+:envelope: <hannaeberhoefer@yahoo.com>
