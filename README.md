@@ -8,15 +8,15 @@ I am a light hearted, open minded and intuitive junior web developer with a grea
 
 #### Logic
 
-Having a logical mind has always been one of my greatest strengths. I have always found it relatively easy to see the bigger picture and connect the dots to make sense of a new situation or task. This ability has been of great help throughout my professional life but especially at Makers Academy, where I succeeded in grasping a variety of new concepts and picking up new frameworks within a short period of time. From learning the basics of Javascript in a week to teaching myself Ionic for my final project, being a fast learning was absolutely essential!
+Having a logical mind has always been one of my greatest strengths. I have always found it relatively easy to see the bigger picture and connect the dots to make sense of a new situation or task. This ability has been of great help throughout my professional life but especially at Makers Academy, where I succeeded in grasping a variety of new concepts and picking up new frameworks within a short period of time. From learning the basics of Javascript in a week to teaching myself Ionic for my final project, being a fast learner was absolutely essential!
 
 #### Teamwork & Communication
 
-I strongly believe these two go hand in hand, you cannot successfully work as a team and achieve your goals without properly communicating with each other. Many years of experience as a restaurant manager with twice-daily staff briefings, weekly cross-departmental managers meetings and multinational, ever changing teams have taught me the importance of being open minded, willing to see things from a different perspective as well as being able to express myself clearly. Daily pair-programming, retrospectives, stand-ups and team projects at Makers Academy have further contributed to my firm belief that communication and teamwork are essential in any professional environment.
+I strongly believe these two go hand in hand! Many years of experience as a restaurant manager with twice-daily staff briefings, weekly cross-departmental managers meetings and multinational, ever changing teams have taught me the importance of being open minded, willing to see things from a different perspective as well as being able to express myself clearly. Daily pair-programming, retrospectives, stand-ups and team projects at Makers Academy have further contributed to my firm belief that communication and teamwork are essential in any professional environment.
 
 #### Being Adaptable
 
-Studying and working in five different countries and 3 different industries has greatly improved my flexibility and ability to quickly adapt to new situations. Especially while I was self-employed I regularly had to adapt to a new work environment and new people with different backgrounds, often on a daily basis. This skill was of great benefit at Makers Academy where I successfully worked on various projects with daily changing pair partners.
+Studying and working in five different countries and three different industries has greatly improved my flexibility and ability to quickly adapt to new situations. Especially while I was self-employed I regularly had to adapt to a new work environment and new people with different backgrounds. This skill was of great benefit at Makers Academy where I successfully worked on various projects with daily changing pair partners.
 
 #### Curiosity
 
@@ -46,7 +46,7 @@ I can juggle and ride a motorbike. Sort of.
 
 - Pair programming
 - OOP, TDD, SOLID, MVC, DDD, Agile, XP principles
-- Ruby, Rails, Sinatra, Javascript, Angular.js, Ionic, HTML, CSS, Postgres, DataMapper, Active Record
+- Ruby, Rails, Sinatra, Javascript, Angular.js, Ionic, HTML, CSS, Postgres, DataMapper, Active Record, React.js
 - Rspec, Jasmine, Capybara, Karma, Protractor
 
 #### London Metropolitan University | September 2005 - February 2007
@@ -76,7 +76,7 @@ I can juggle and ride a motorbike. Sort of.
 **French Kitchen** | March 2011 - November 2011   
 *Restaurant Manager*  
 
-**Self-employed** | November 2009 - February 2011      
+**Self-employed** | November 2009 - February 2011   
 *Artist's Model in the UK, France and Belgium*  
 
 **Ground Restaurant** | October 2006 - November 2009   
