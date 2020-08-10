@@ -70,14 +70,15 @@ I can juggle and ride a motorbike. Sort of.
 
 ## Experience
 
-**Nando's** | March 2019 - Present
+**Nando's** | March 2019 - Present    
 *First Assistant Manager*
 
-**EightOverEight** | April 2018 - January 2019
+**EightOverEight** | April 2018 - January 2019    
 *Restaurant Manager*
 
-**The Big Easy** | August 2016 - February 2018
-*Duty Manager*
+
+**The Big Easy** | August 2016 - February 2018    
+*Restaurant Manager*  
 
 **The Big Easy** | January 2012 - March 2016    
 *Restaurant Manager*  
