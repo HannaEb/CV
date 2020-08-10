@@ -25,6 +25,7 @@ Why do the wheels of a car sometimes look like they are spinning backwards? What
 #### Languages
 
 - German - Fluent
+- English - Fluent
 - French - Advanced
 - Spanish - Basic Knowledge
 
