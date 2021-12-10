@@ -2,13 +2,13 @@
 
 [Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Contact](#contact)
 
-I am a light hearted, open minded and intuitive junior web developer with a great passion for learning and numbers. I recently graduated from Makers Academy, an intensive 16 week coding boot camp where I was introduced to languages such as Ruby and JavaScript as well as various frameworks and programming practices. But most importantly I learned how to learn! I am now looking to work with a great team in a challenging and inspiring environment where I can continue to learn and improve my skills on a daily basis.
+I am a light hearted, open minded and intuitive junior web developer with a great passion for learning and numbers. I am a graduate of Makers Academy, an intensive 16 week coding boot camp, where I was introduced to languages such as Ruby and JavaScript as well as various frameworks and programming practices. More recently, I enrolled in several online courses including Coursera's Full-Stack Web Development with React and Udacity's React Nanodegree program, which have sparked a great passion for front end development! I am now looking to work with a great team in a challenging and inspiring environment where I can continue to learn and improve my skills on a daily basis.
 
 ## Skills
 
 #### Logic
 
-Having a logical mind has always been one of my greatest strengths. I have always found it relatively easy to see the bigger picture and connect the dots to make sense of a new situation or task. This ability has been of great help throughout my professional life but especially at Makers Academy, where I succeeded in grasping a variety of new concepts and picking up new frameworks within a short period of time. From learning the basics of Javascript in a week to teaching myself Ionic for my final project, being a fast learner was absolutely essential!
+Having a logical mind has always been one of my greatest strengths. I have always found it relatively easy to see the bigger picture and connect the dots to make sense of a new situation or task. This ability has been of great help throughout my professional life but especially at Makers Academy, where I succeeded in grasping a variety of new concepts and picking up new frameworks within a short period of time. From learning the basics of Javascript in a week to teaching myself more advanced concepts for my final project, being a fast learner was absolutely essential!
 
 #### Teamwork & Communication
 
@@ -16,7 +16,7 @@ I strongly believe these two go hand in hand! Many years of experience as a rest
 
 #### Being Adaptable
 
-Studying and working in five different countries and three different industries has greatly improved my flexibility and ability to quickly adapt to new situations. Especially while I was self-employed I regularly had to adapt to a new work environment and new people with different backgrounds. This skill was of great benefit at Makers Academy where I successfully worked on various projects with daily changing pair partners.
+Studying and working in different countries and industries has greatly improved my flexibility and ability to quickly adapt to new situations. Throughout my career I regularly had to adapt to a new work environment and new people with different backgrounds. This skill was also of great benefit at Makers Academy where I successfully worked on various projects with daily changing pair partners.
 
 #### Curiosity
 
@@ -42,6 +42,11 @@ I can juggle and ride a motorbike. Sort of.
 |[**MakersBnB**](https://github.com/HannaEb/SHEWbnb.git) | A clone of AirBnb which allows you to view, request and book places to stay. | Ruby, Sinatra, Postgres | RSpec, Capybara|
 
 ## Education
+
+#### Udacity | November 2021 - Present
+
+- React Nanodegree
+- React, Redux
 
 #### Makers Academy | April 2016 - July 2016
 
@@ -69,39 +74,41 @@ I can juggle and ride a motorbike. Sort of.
 
 - Degree in Business Administration
 
+## Certificates
+
+#### Full-Stack Web Development with React Specialization
+Coursera | August 2021
+
+#### Rails with Active Record and Action Pack
+Coursera | July 2017
+
+#### Ruby on Rails: An Introduction
+Coursera | June 2017
+
 ## Experience
 
-**Nando's** | March 2019 - Present    
-*First Assistant Manager*
+**Nando's** | March 2019 - November 2021
+*Duty Manager*
 
-**EightOverEight** | April 2018 - January 2019    
+**EightOverEight** | April 2018 - January 2019
 *Restaurant Manager*
 
+**The Big Easy** | August 2016 - February 2018
+*Duty Manager*
 
-**The Big Easy** | August 2016 - February 2018    
-*Restaurant Manager*  
+**The Big Easy** | January 2012 - March 2016
+*Duty Manager*
 
-**The Big Easy** | January 2012 - March 2016    
-*Restaurant Manager*  
+**Relish Restaurants** | March 2011 - November 2011
+*Supervisor*
 
-**French Kitchen** | March 2011 - November 2011   
-*Restaurant Manager*  
-
-**Self-employed** | November 2009 - February 2011   
-*Artist's Model in the UK, France and Belgium*  
-
-**Ground Restaurant** | October 2006 - November 2009   
-*Waitress, Supervisor, Restaurant Manager*  
-
-**New Zealand Splendeur Tours, NZ** | August 2003 - December 2003     
-*Work Placement*  
 
 ## Interests
 
 - Music - Piano, Clarinet, Saxophone
 - Reading - mainly Fantasy, my Atlas and Wikipedia
 - Cooking, trying out new recipes and food in general!
-- Swimming - preferably in the sea  
+- Swimming - preferably in the sea
 - Yoga
 - My cats and all other animals - especially goats. Goats are awesome.
 - Nature documentaries
