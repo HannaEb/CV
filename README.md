@@ -37,6 +37,7 @@ I can juggle and ride a motorbike. Sort of.
 
 | Name | Description | Technologies | Testing |
 |------|-------------|--------------|---------|
+|[**Reddit Client**](https://github.com/HannaEb/myreads.git)| An easy way for Reddit enthusiasts to view posts from selected categories. | React, Redux, Reddit API, Jest, Enzyme
 |[**Werewolves Frontend**](https://github.com/HannaEb/werewolves_frontend.git), [**Werewolves Backend**](https://github.com/HannaEb/werewolves_backend.git)| A mobile app for the very popular Werewolves game. | Rails, AngularJS, Ionic, Postgres | Rspec |
 |[**Bookworms**](https://github.com/HannaEb/bookworms.git)| For book lovers and aspiring readers to connect over books. | Rails API, AngularJS, Rails asset pipeline, Postgres, Heroku | RSpec, Karma, Protractor |
 |[**MakersBnB**](https://github.com/HannaEb/SHEWbnb.git) | A clone of AirBnb which allows you to view, request and book places to stay. | Ruby, Sinatra, Postgres | RSpec, Capybara|
