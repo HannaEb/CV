@@ -33,7 +33,7 @@ Why do the wheels of a car sometimes look like they are spinning backwards? What
 
 I can juggle and ride a motorbike. Sort of.
 
-## Projects
+## Selected Projects
 
 | Name | Description | Technologies | Testing |
 |------|-------------|--------------|---------|
@@ -44,7 +44,12 @@ I can juggle and ride a motorbike. Sort of.
 
 ## Education
 
-#### Udacity | November 2021 - Present
+#### Udacity | January 2022 - Present
+
+- Front End Web Developer Nanodegree
+- JavaScript, HTML, CSS, Webpack, Flexbox, CSS Grid, Node, OOP
+
+#### Udacity | November 2021 - January 2022
 
 - React Nanodegree
 - React, Redux
